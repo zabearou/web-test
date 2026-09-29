@@ -1,1 +1,2 @@
-# web-test
+This is a way to learn js and web stuff for the sake of geography...
+I know that sounds strange
