@@ -1,0 +1,17 @@
+div {
+    color: blue;
+}
+.hello,
+.alert {
+    color: red;
+}
+
+.hello.alert {
+    color: maroon;
+    size: 100px;
+}
+
+#title {
+    text-box: 2;
+    color: steelblue;
+}
