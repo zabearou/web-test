@@ -1,17 +1,22 @@
-div {
+first,second {
+    font-family: Helvetica, sans-serif;
+    size: 28px;
+}
+
+#first {
+    background-color: black;
+    color: white;
+}
+
+#second {
+    background-color: yellow;
+}
+
+.this {
+    background-color: purple;
+}
+
+.this .that {
+    background-color: green;
     color: blue;
-}
-.hello,
-.alert {
-    color: red;
-}
-
-.hello.alert {
-    color: maroon;
-    size: 100px;
-}
-
-#title {
-    text-box: 2;
-    color: steelblue;
 }
