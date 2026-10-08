@@ -1,22 +1,24 @@
-first,second {
-    font-family: Helvetica, sans-serif;
-    size: 28px;
+body {
+    background-color: rgb(0, 133, 255);
 }
 
-#first {
-    background-color: black;
-    color: white;
+.main {
+    background-color: white;
+    width: auto;
 }
 
-#second {
-    background-color: yellow;
+p {
+    padding: 16px;
 }
 
-.this {
-    background-color: purple;
+#fish {
+    padding: 16px;
+    border: 2px solid black;
+    margin:16px;
 }
 
-.this .that {
-    background-color: green;
-    color: blue;
+.ing {
+    margin: 16px;
+    background-color: lightcoral;
+    color: black;
 }
